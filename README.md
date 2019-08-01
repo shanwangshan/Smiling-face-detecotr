@@ -1,1 +1,1 @@
-# Smiling face detecotr
+# Smiling face detetor
